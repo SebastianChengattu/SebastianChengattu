@@ -1,9 +1,9 @@
-<h3 align="center"> 1010010110101010111010110100101101010101110101101001011010101011110100101101010101110101 </h3>
+<h3 align="left"> 010010110101010111010110100101101010101110101101001011010101011110100101101010101110100 </h3>
 <h3 align="center"> 10100101101010101110101  ._WELCOME TO SEBASTIAN'S CODED FILES_.  10100101101010101110101 </h3>
-<h3 align="center"> 1010010110101010111010110100101101010101110101101001011010101011110100101101010101110101 </h3>
+<h3 align="right"> 01001011010101011101011010010110101010111010110100101101010101111010010110101010111010 </h3>
 
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif)](https://SebastianChengattu.github.io)
-<h3 align="center"> 1010010110101010111010110100101101010101110101101001011010101011110100101101010101110101 </h3>
+
 <h3 align="center">As a student I am researching for internships that will prepare me to enter the work force. My goal is to ”sharpen” my various skills and expand my current knowledge on writing an application. I am eager to learn something new and look for a position where I will be able to execute and succeed in an energizing environment. With a willingness to learn, this makes me an asset for teams or to work unaccompanied on given projects. Being able to give employers with full support, and use my technical-skills and marketing-skills to be able to get more work done efficiently will be my main focus when doing a job.</h3>
 
 
