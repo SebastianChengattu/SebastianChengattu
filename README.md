@@ -1,8 +1,11 @@
+<h3 align="center"> System.out.println("_WELCOME_ _TO_ _SEBASTIANS_ _CODED_ _FILES_"); </h3>
+
+[![MasterHead](https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif)](https://SebastianChengattu.github.io)
 <h3 align="center">As a student I am researching for internships that will prepare me to enter the work force. My goal is to ”sharpen” my various skills and expand my current knowledge on writing an application. I am eager to learn something new and look for a position where I will be able to execute and succeed in an energizing environment. With a willingness to learn, this makes me an asset for teams or to work unaccompanied on given projects. Being able to give employers with full support, and use my technical-skills and marketing-skills to be able to get more work done efficiently will be my main focus when doing a job.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sebastianchengattu&label=Profile%20views&color=0e75b6&style=flat" alt="sebastianchengattu" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sebastianchengattu" alt="sebastianchengattu" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sebastianchengattu" alt="sebastianchengattu" /></a> </p>
 
 - 🔭 I’m currently working on **finishing my undergraduate @ ASU**
 
@@ -17,6 +20,8 @@
 - 📫 How to reach me (serious inquires) **sebastianchengattu07@gmail.com**
 
 - ⚡ Fun fact **I can cook, cut hair, travel, and there's more to unlock!**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
