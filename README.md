@@ -21,7 +21,7 @@
 
 - ⚡ Fun fact **I can cook, cut hair, travel, and there's more to unlock!**
 
-<p><img align="right" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif" width="250" height="100" alt="Computer" /></p>
+<p><img align="right" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif" width="700" height="100" alt="Computer" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -38,5 +38,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sebastianchengattu&" alt="sebastianchengattu" /></p>
 
-<p><img align="left" src="https://i.pinimg.com/originals/63/cb/25/63cb25e70551ef00f69816fb0464e82f.png" width="500" height="300" alt="sebastianchengattu" /></p>
+<p><img align="center" src="https://i.pinimg.com/originals/63/cb/25/63cb25e70551ef00f69816fb0464e82f.png" width="1000" height="100" alt="sebastianchengattu" /></p>
 
