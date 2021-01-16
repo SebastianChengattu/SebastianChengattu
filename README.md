@@ -42,7 +42,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sebastianchengattu&" alt="sebastianchengattu" /></p>
 
-<h3 align="center"> return 0; </h3>
+<h3 align="left"> return 0; </h3>
 
 <p><img align="right" src="https://i.pinimg.com/originals/63/cb/25/63cb25e70551ef00f69816fb0464e82f.png" width="250" height="120" alt="sebastianchengattu" /></p>
 
